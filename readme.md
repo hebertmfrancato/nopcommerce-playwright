@@ -18,7 +18,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema:
 
 [Playwright](https://playwright.dev/) - Biblioteca para automação de testes em navegadores da web.
 
-[Faker] (https://fakerjs.dev/) - Biblioteca para geração de dados fictícios.
+[Faker](https://fakerjs.dev/) - Biblioteca para geração de dados fictícios.
 
 ### Executando os testes
 
